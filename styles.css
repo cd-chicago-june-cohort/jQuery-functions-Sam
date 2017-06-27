@@ -1,0 +1,139 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin:0;
+    padding:0;
+}
+
+#container {
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+    background: teal;
+}
+
+#header {
+    width: 970px;
+    height: 500px;
+    margin: auto;
+}
+
+.crown {
+    width: 50px;
+    height: 45px;
+    display: block;
+    margin: auto;
+}
+
+#header-img {
+    width: 250px;
+    height: 280px;
+    display: none;
+}
+
+#header h1 {
+    width: 200px;;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#header-button {
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: auto;
+    background: pink;
+}
+
+#pic-frame {
+    width: 250px;
+    height: 280px;
+    display: block;
+    margin: auto;
+    border: 10px solid goldenrod;
+}
+
+
+/*Photo Gallery Section starts here*/
+
+#gallery {
+    height: 550px;
+    width: 1118px;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.gal-frames {
+    width: 300px;
+    height: 300px;
+    margin-right: 50px;
+    border: 10px solid goldenrod;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+#gal-button {
+    width: 200px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    background: pink;
+}
+
+#gal-button2 {
+    width: 200px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    background: pink;
+}
+
+.gal-img {
+    width: 300px;
+    height: 300px;
+    display: none;
+}
+
+.gal-img2 {
+    width: 300px;
+    height: 300px;
+    display: none;
+}
+
+/*Party styles*/
+
+#good-times {
+    height: 600px;
+    width: 1118px;
+    margin: auto;
+}
+
+#fun {
+    height: 50px;
+    width: 400px;
+    font-size: 14px;
+    background: linear-gradient(to bottom right, lime, salmon);
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#party {
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+
+.pink-text-box {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.pink-text-div {
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    background: magenta;
+}
